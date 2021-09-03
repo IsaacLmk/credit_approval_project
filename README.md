@@ -8,4 +8,4 @@ Url: https://www.kaggle.com/zaurbegiev/my-dataset?select=credit_train.csv
 Packages used:
 - Pandas, Numpy: for data handling
 - Sklearn, Xgboost: for machine learning models
-- matplotlib, seaboard, plotly: for chart ploting
+- matplotlib, seaborn, plotly: for chart ploting
